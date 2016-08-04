@@ -1,0 +1,45 @@
+_repo: Heretics_470
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: "Heretics is a collection of 20 essays originally published by G.K. Chesterton\
+  \ in 1905.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '470'
+  wikidata: Q5738287
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Apologetics'
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936'
+- GITenberg
+tableOfContents: Introductory remarks on the importance of orthodoxy -- On the negative
+  spirit -- On Mr. Rudyard Kipling and making the world small -- Mr. Bernard Shaw
+  -- Mr. H.G. Wells and the giants -- Christmas and the aesthetes -- Omar and the
+  sacred vine -- The mildness of the yellow press -- The moods of Mr. George Moore
+  -- On sandals and simplicity -- Science and the savages -- Paganism and Mr. Lowes
+  Dickinson -- Celts and celtophiles -- On certain modern writers and the institution
+  of the family -- On smart novelists and the smart set -- On Mr. McCabe and a divine
+  frivolity -- On the wit of Whistler -- The fallacy of the young nation -- Slum novelists
+  and the slums -- Concluding remarks on the importance of orthodoxy.
+title: Heretics
+url: http://www.gutenberg.org/ebooks/470
+wikipedia:
+- https://en.wikiquote.org/wiki/Heretics_(book)
+- https://en.wikipedia.org/wiki/Heretics_(book)
+- https://it.wikipedia.org/wiki/Eretici_(saggio)
